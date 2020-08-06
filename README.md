@@ -1,16 +1,13 @@
 ### Hi there 👋
+My name is GeunChang Ahn✨
 
-<!--
-**rkaehdaos/rkaehdaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 You can reach me: rkaehdaos@gmail.com
+- 💬`rkaehdaos` is sequence key for writing in HanGl '감동맨'
+  - '감동' in korean means 'touch' or 'impress'.⚡
+  - '맨' is pronounce like 'man'
+  - I often touched easy and I wanna try to touch someone.. like you.😄
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on @ttukttak
+- 🔭 I’m currently working on @ttukttak    
 - 🌱 I’m currently learning ...Elastic Search
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...develop
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I have 2 kids.
+- 🤔 I’m looking for something to learn
