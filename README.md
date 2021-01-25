@@ -11,3 +11,8 @@ My name is GeunChang Ahn✨
 - 🌱 I’m currently learning ...Elastic Search
 - 👯 I have 2 kids.
 - 🤔 I’m looking for something to learn
+
+### Book
+- 객체지향의 사실과 오해 - ![](https://img.shields.io/static/v1?label=status&message=reading&color=yellow)
+  - The Essence of Object-Orientation(Roles, Responsibilities, and Collaborations)
+  - 
