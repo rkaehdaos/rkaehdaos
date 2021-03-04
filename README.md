@@ -13,7 +13,10 @@ My name is GeunChang Ahn✨
 - 🤔 I’m looking for something to learn
 
 ### Book
-- 객체지향의 사실과 오해 - [![독서상태](https://img.shields.io/static/v1?label=status&message=reading&color=yellow)](https://github.com/rkaehdaos/rkaehdaos/issues/3)
+- <img src="https://user-images.githubusercontent.com/13996827/109906589-1d3f2f80-7ce4-11eb-9ee5-1201db04066b.png" width="130px" height="95px" />
+  객체지향의 사실과 오해 - 
+  [![독서상태](https://img.shields.io/static/v1?label=status&message=reading&color=yellow)](https://github.com/rkaehdaos/rkaehdaos/issues/3)
+  
   - The Essence of Object-Orientation(Roles, Responsibilities, and Collaborations)
   - 조영호 지음(2015)
   - <img src="https://user-images.githubusercontent.com/13996827/109906589-1d3f2f80-7ce4-11eb-9ee5-1201db04066b.png" width="130px" height="95px" />
