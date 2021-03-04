@@ -16,6 +16,4 @@ My name is GeunChang Ahn✨
 - 객체지향의 사실과 오해 - [![독서상태](https://img.shields.io/static/v1?label=status&message=reading&color=yellow)](https://github.com/rkaehdaos/rkaehdaos/issues/3)
   - The Essence of Object-Orientation(Roles, Responsibilities, and Collaborations)
   - 조영호 지음(2015)
-  - ![image](https://user-images.githubusercontent.com/13996827/105270305-e7813400-5bd8-11eb-96b1-f8019d669fae.png){:height="50%" width="50%"}
-  
-[[https://user-images.githubusercontent.com/13996827/105270305-e7813400-5bd8-11eb-96b1-f8019d669fae.png|width=130px]]
+  - <img src="https://user-images.githubusercontent.com/13996827/105270305-e7813400-5bd8-11eb-96b1-f8019d669fae.png" width="130px" height="95px" />
