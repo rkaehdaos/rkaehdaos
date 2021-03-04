@@ -17,3 +17,5 @@ My name is GeunChang Ahn✨
   - The Essence of Object-Orientation(Roles, Responsibilities, and Collaborations)
   - 조영호 지음(2015)
   - ![image](https://user-images.githubusercontent.com/13996827/105270305-e7813400-5bd8-11eb-96b1-f8019d669fae.png){:height="50%" width="50%"}
+  
+[[https://user-images.githubusercontent.com/13996827/105270305-e7813400-5bd8-11eb-96b1-f8019d669fae.png|width=130px]]
